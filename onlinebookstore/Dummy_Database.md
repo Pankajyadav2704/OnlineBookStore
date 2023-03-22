@@ -38,6 +38,6 @@ insert into users values('demo','demo','Demo','User','Demo Home','42502216225','
 
 insert into users values('Admin','Admin','Mr.','Admin','Haldia WB','9584552224521','admin@gmail.com',1);
 
-insert into users values('shashi','shashi','Shashi','Raj','Bihar','1236547089','shashi@gmail.com',2);
+insert into users values('pankaj','pankaj','pankaj','yadav','Uttarpradesh','122012502021','pankajyadav.kv@gmail.com',2);
 
 commit;
